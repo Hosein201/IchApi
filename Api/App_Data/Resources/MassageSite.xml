@@ -1,0 +1,20 @@
+﻿<Massege>
+	<Resource Name="CompanyName">
+		<Value>نام شرکت اجباری می باشد.</Value>
+	</Resource>
+	<Resource Name="CompanyAddress">
+		<Value>آدرس شرکت اجباری می باشد.</Value>
+	</Resource>
+	<Resource Name="CompanyCompanyId">
+		<Value>شرکت مورد نظر رار وارد کنید</Value>
+	</Resource>
+	<Resource Name="EmployeeFullName">
+		<Value>Admin user email</Value>
+	</Resource>
+	<Resource Name="EmployeeAge">
+		<Value>Admin user email</Value>
+	</Resource>
+	<Resource Name="EmployeePosition">
+		<Value>Admin user email</Value>
+	</Resource>
+</Massege>

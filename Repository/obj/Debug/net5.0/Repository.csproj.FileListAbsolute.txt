@@ -1,0 +1,17 @@
+D:\Utility\Ich\IchApi\Repository\obj\Debug\net5.0\Repository.csprojAssemblyReference.cache
+D:\Utility\Ich\IchApi\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Utility\Ich\IchApi\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\Utility\Ich\IchApi\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\Utility\Ich\IchApi\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\Utility\Ich\IchApi\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\Utility\Ich\IchApi\Repository\bin\Debug\net5.0\Repository.dll
+D:\Utility\Ich\IchApi\Repository\bin\Debug\net5.0\ref\Repository.dll
+D:\Utility\Ich\IchApi\Repository\bin\Debug\net5.0\Repository.pdb
+D:\Utility\Ich\IchApi\Repository\bin\Debug\net5.0\Entities.dll
+D:\Utility\Ich\IchApi\Repository\bin\Debug\net5.0\Utility.dll
+D:\Utility\Ich\IchApi\Repository\bin\Debug\net5.0\Entities.pdb
+D:\Utility\Ich\IchApi\Repository\bin\Debug\net5.0\Utility.pdb
+D:\Utility\Ich\IchApi\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+D:\Utility\Ich\IchApi\Repository\obj\Debug\net5.0\Repository.dll
+D:\Utility\Ich\IchApi\Repository\obj\Debug\net5.0\ref\Repository.dll
+D:\Utility\Ich\IchApi\Repository\obj\Debug\net5.0\Repository.pdb

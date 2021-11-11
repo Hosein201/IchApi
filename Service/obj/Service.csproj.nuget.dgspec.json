@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\githup\\IchApi\\Service\\Service.csproj": {}
+  },
+  "projects": {
+    "E:\\githup\\IchApi\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\githup\\IchApi\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "E:\\githup\\IchApi\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Programmer\\.nuget\\packages\\",
+        "outputPath": "E:\\githup\\IchApi\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Programmer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for WPF R1 2020\\Binaries\\NetCore\\NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\githup\\IchApi\\Utility\\Utility.csproj": {
+                "projectPath": "E:\\githup\\IchApi\\Utility\\Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\githup\\IchApi\\Repository\\Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\githup\\IchApi\\Repository\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "E:\\githup\\IchApi\\Repository\\Data.csproj",
+        "packagesPath": "C:\\Users\\Programmer\\.nuget\\packages\\",
+        "outputPath": "E:\\githup\\IchApi\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Programmer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for WPF R1 2020\\Binaries\\NetCore\\NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\githup\\IchApi\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\githup\\IchApi\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.13.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\githup\\IchApi\\Service\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\githup\\IchApi\\Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "E:\\githup\\IchApi\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\Programmer\\.nuget\\packages\\",
+        "outputPath": "E:\\githup\\IchApi\\Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Programmer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for WPF R1 2020\\Binaries\\NetCore\\NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\githup\\IchApi\\Repository\\Data.csproj": {
+                "projectPath": "E:\\githup\\IchApi\\Repository\\Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.3, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.7.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\githup\\IchApi\\Utility\\Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\githup\\IchApi\\Utility\\Utility.csproj",
+        "projectName": "Utility",
+        "projectPath": "E:\\githup\\IchApi\\Utility\\Utility.csproj",
+        "packagesPath": "C:\\Users\\Programmer\\.nuget\\packages\\",
+        "outputPath": "E:\\githup\\IchApi\\Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Programmer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for WPF R1 2020\\Binaries\\NetCore\\NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

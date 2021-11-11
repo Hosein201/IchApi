@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FSwm5NlAPIgg4Ixoj7PibLU5npCHDrkMXJA+iojfLI8jCvqHLZOg4ROC+EuLETtpjRvseWE2Sktl3na9mspGsA==",
+  "success": true,
+  "projectFilePath": "E:\\githup\\IchApi\\Utility\\Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Programmer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
